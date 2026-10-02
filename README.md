@@ -9,3 +9,6 @@
 かなりシンプルなUIながらかなり快適な操作性を実現できたと感じている。
 しかし、文字の字幅がバラバラでよみずらさを感じる箇所がある。<img width="899" height="742" alt="image" src="https://github.com/user-attachments/assets/c9b31a58-7159-4307-863b-2b33ccd27124" />
 また英単語のデータを入れることは簡単だが、DBをリセットする機能などがあってもいいのではないかと考えている。
+
+## URL
+https://english-word-test-tool.streamlit.app/
